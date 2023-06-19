@@ -1,0 +1,27 @@
+B7QWaO7&BQmvR@1mJr^V
+
+php_flag output_buffering on
+
+
+CREATE NEW DATA BASE INFO
+
+NAME:
+barangay
+
+USERNAME:
+root
+
+PASSWORD:
+B7QWaO7&BQmvR@1mJr^V
+
+_____________________
+MANAGEMENT DATABASE
+
+Name:
+id20935514_barangay
+
+User:
+id20935514_root
+
+Host:
+localhost
